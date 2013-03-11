@@ -3,5 +3,7 @@ if(favChar == "Peter Griffin"){
 }else{
 	print "Homer Simpson is better";
 }
+<<<<<<< HEAD
 
 The ultimate text.. 
+
