@@ -3,4 +3,4 @@ if(favChar == "Peter Griffin"){
 }else{
 	print "Homer Simpson is better";
 }
-
+tets
