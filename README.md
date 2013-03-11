@@ -17,4 +17,8 @@ CODE THAT DOESNT WORK
 Welcome to the project Test1!!
 
 
+<<<<<<< HEAD
 testetetette
+=======
+hwooo
+>>>>>>> origin/master
